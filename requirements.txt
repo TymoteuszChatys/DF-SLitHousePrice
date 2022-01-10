@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+matplotlib
+sklearn
+nltk
+pillow
+keras
+tensorflow
