@@ -7,3 +7,4 @@ nltk
 pillow
 keras
 tensorflow
+lightgbm
